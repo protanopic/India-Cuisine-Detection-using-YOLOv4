@@ -24,7 +24,7 @@ eg : ImageNet , COCO , Google's Open Image etc.
 - Data Generation ( Synthetic Data by GANs )
 
 ### 1.1. Classes in Dataset (Total 50 Indian Dishes )
-1. Dosa
+1. Masala Dosa
 2. Idli
 3.  Parathas
 4. Poha
