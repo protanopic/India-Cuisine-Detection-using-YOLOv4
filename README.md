@@ -23,7 +23,7 @@ eg : ImageNet , COCO , Google's Open Image etc.
 - Data Augmentation.
 - Data Generation ( Synthetic Data by GANs )
 
-### 1.1. Classes in Dataset (Total 30 Indian Dishes , each class has 20 images )
+### 1.1. Classes in Dataset (Total 25 Indian Dishes , each class has 20 images )
 
 1. Masala Dosa 
 2. Idli 
